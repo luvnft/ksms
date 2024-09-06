@@ -47,7 +47,7 @@ const items = [
     {
       label: 'Documentation',
       icon: 'i-heroicons-book-open',
-      to: 'https://github.com/roiLeo/stupendous-shop#nft-shop'
+      to: 'https://github.com/luvnft/ksms'
     },
     {
       label: 'Status',

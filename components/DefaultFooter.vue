@@ -6,42 +6,42 @@
       <div class="container mx-auto text-center">
         <p class="mb-3 font-semibold text-gray-500 text-sm">
           © {{ new Date().getFullYear() }}
-          roiLeo. All rights reserved.
+          ADTC. All rights reserved.
         </p>
 
         <p class="text-sm text-gray-700 dark:text-gray-500">
-          This website is built with
+          Flip ADTC in the ATL5D
           <a
-            href="https://nuxt.com/"
+            href="https://t.me/atl5d"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Nuxt</a
+            >Telegram</a
           >
           &amp;
           <a
-            href="https://ui.nuxt.com/"
+            href="https://discord.gg/qbjc9Dqkn4"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Nuxt UI</a
+            >Discord</a
           >
-          and hosted on
+          and follow ATL5D
           <a
-            href="https://netlify.com/"
+            href="https://linktr.ee/atl5d"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Netlify</a
+            >Linktree</a
           >.
           <br />
-          The source code is available on
+          Follow Wizard of Hahz
           <a
-            href="https://github.com/roiLeo/stupendous-shop"
+            href="https://x.com/wizardofhahz"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Github</a
+            >X</a
           >.
         </p>
       </div>
