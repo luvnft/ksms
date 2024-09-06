@@ -18,7 +18,7 @@ export default defineNuxtConfig({
   },
   i18n: {
     locales: [
-      { code: 'en', file: 'en.json', name: '🇬🇧' },
+      { code: 'en', file: 'en.json', name: '🇺🇲' },
       { code: 'fr', file: 'fr.json', name: '🇫🇷' },
     ],
     // lazy: true,
